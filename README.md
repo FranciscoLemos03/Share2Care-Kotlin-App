@@ -1,6 +1,6 @@
 # Share2Care - Community Support Platform
 
-## Project Title & Short Description
+## Project Description
 
 **Share2Care** is an Android mobile application built with Kotlin and Jetpack Compose that serves as a comprehensive community support platform. It facilitates the management of social aid, user profiles, announcements, tickets, and check-in/check-out systems for social support organizations. The application leverages Firebase for authentication, real-time database management, and cloud storage, providing a seamless experience for both administrators and beneficiaries.
 
